@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inharetance", "inharetance\inharetance.csproj", "{55758FE9-CE09-469F-8194-5C478F42804D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55758FE9-CE09-469F-8194-5C478F42804D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55758FE9-CE09-469F-8194-5C478F42804D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55758FE9-CE09-469F-8194-5C478F42804D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55758FE9-CE09-469F-8194-5C478F42804D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BD24986-1CC0-460C-AB1E-753DC5EB7016}
+	EndGlobalSection
+EndGlobal
